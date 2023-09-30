@@ -10,16 +10,18 @@
     "tauri": "tauri"
   },
   "dependencies": {
+    "@kuma-ui/core": "^1.4.1",
+    "@tauri-apps/api": "^1.5.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "@tauri-apps/api": "^1.5.0"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@kuma-ui/vite": "^1.1.1",
+    "@tauri-apps/cli": "^1.5.0",
     "@types/react": "^18.2.15",
     "@types/react-dom": "^18.2.7",
     "@vitejs/plugin-react": "^4.0.3",
     "typescript": "^5.0.2",
-    "vite": "^4.4.4",
-    "@tauri-apps/cli": "^1.5.0"
+    "vite": "^4.4.4"
   }
 }
